@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="site" table="x_166642_subnet_ma_subnet" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Belgium</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187a526b4f412300436e4a318110c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Belgium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canada</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587a526b4f412300436e4a318110c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Canada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>France</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d47a526b4f412300436e4a318110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>France</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Germany</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547a526b4f412300436e4a318110c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Germany</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italy</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d07a526b4f412300436e4a318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Italy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Japan</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507a526b4f412300436e4a318110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Japan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mexico</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7a526b4f412300436e4a318110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Kingdom</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7a526b4f412300436e4a318110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>United Kingdom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USA</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87a526b4f412300436e4a318110c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+            <value>USA</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>site</element>
+            <name>x_166642_subnet_ma_subnet</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 19:52:27</sys_created_on>
+            <sys_id>507a526b4f412300436e4a318110c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>site</sys_name>
+            <sys_package display_value="Subnet Management" source="x_166642_subnet_ma">229c4e6f4f012300436e4a318110c7e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Subnet Management">229c4e6f4f012300436e4a318110c7e1</sys_scope>
+            <sys_update_name>sys_choice_x_166642_subnet_ma_subnet_site</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 19:52:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
