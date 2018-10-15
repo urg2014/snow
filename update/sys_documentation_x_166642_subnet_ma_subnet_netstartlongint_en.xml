@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="netstartlongint" label="netStartLongInt" language="en" table="x_166642_subnet_ma_subnet">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>netstartlongint</element>
+            <help/>
+            <hint/>
+            <label>netStartLongInt</label>
+            <language>en</language>
+            <name>x_166642_subnet_ma_subnet</name>
+            <plural>netStartLongInts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 18:57:16</sys_created_on>
+            <sys_id>04dd4aef4f012300436e4a318110c7a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>netStartLongInt</sys_name>
+            <sys_package display_value="Subnet Management" source="x_166642_subnet_ma">229c4e6f4f012300436e4a318110c7e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Subnet Management">229c4e6f4f012300436e4a318110c7e1</sys_scope>
+            <sys_update_name>sys_documentation_x_166642_subnet_ma_subnet_netstartlongint_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 18:57:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
