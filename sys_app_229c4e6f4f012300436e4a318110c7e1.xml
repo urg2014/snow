@@ -23,15 +23,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-15 18:52:00</sys_created_on>
         <sys_id>229c4e6f4f012300436e4a318110c7e1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-15 20:33:42</sys_updated_on>
+        <sys_updated_on>2018-10-16 09:09:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_166642_subnet_ma.user" name="x_166642_subnet_ma.user">be9c0eaf4f012300436e4a318110c748</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#0</average_image_color>
