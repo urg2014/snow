@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_166642_subnet_ma_subnet">
     <x_166642_subnet_ma_subnet action="INSERT_OR_UPDATE">
         <active>false</active>
-        <cidr>192.168.2.3/13</cidr>
-        <description/>
+        <cidr>192.168.2.3/0</cidr>
+        <description>test my&#13;
+description text</description>
         <externalid/>
         <ipversion/>
         <mask/>
-        <maskbits>13</maskbits>
-        <name>test2</name>
+        <maskbits>0</maskbits>
+        <name>testasc</name>
         <netend/>
         <netendlongint/>
         <netlongint/>
@@ -21,13 +22,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-16 07:41:22</sys_created_on>
         <sys_id>20ac307b4f852300436e4a318110c72e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>test2</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>testasc</sys_name>
         <sys_package display_value="Subnet Management" source="x_166642_subnet_ma">229c4e6f4f012300436e4a318110c7e1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Subnet Management">229c4e6f4f012300436e4a318110c7e1</sys_scope>
         <sys_update_name>x_166642_subnet_ma_subnet_20ac307b4f852300436e4a318110c72e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-16 09:09:54</sys_updated_on>
+        <sys_updated_on>2018-10-16 09:29:55</sys_updated_on>
     </x_166642_subnet_ma_subnet>
 </record_update>
