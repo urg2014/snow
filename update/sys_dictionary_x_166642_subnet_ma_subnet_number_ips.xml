@@ -38,7 +38,7 @@
         <name>x_166642_subnet_ma_subnet</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-15 19:28:22</sys_created_on>
         <sys_id>0f6b9e6b4f412300436e4a318110c72a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Number IP's</sys_name>
         <sys_package display_value="Subnet Management" source="x_166642_subnet_ma">229c4e6f4f012300436e4a318110c7e1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Subnet Management">229c4e6f4f012300436e4a318110c7e1</sys_scope>
         <sys_update_name>sys_dictionary_x_166642_subnet_ma_subnet_number_ips</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-16 07:52:37</sys_updated_on>
+        <sys_updated_on>2018-10-16 08:36:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

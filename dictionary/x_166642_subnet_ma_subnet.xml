@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Subnet" max_length="40" name="x_166642_subnet_ma_subnet" type="collection">
+    <element audit="true" label="Subnet" max_length="40" name="x_166642_subnet_ma_subnet" type="collection">
         <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
         <element label="CIDR" max_length="200" name="cidr" read_only="true" type="string"/>
         <element label="Description" max_length="5000" name="description" type="string"/>
         <element label="External ID" max_length="100" name="externalid" read_only="true" type="string"/>
         <element label="IP Version" max_length="40" name="ipversion" read_only="true" type="string"/>
         <element label="Mask" max_length="40" name="mask" read_only="true" type="string"/>
-        <element display="true" label="Netmask Bits" mandatory="true" max_length="40" name="maskbits" type="integer"/>
+        <element label="Netmask Bits" mandatory="true" max_length="40" name="maskbits" type="integer"/>
         <element label="Name" mandatory="true" max_length="200" name="name" type="string"/>
         <element label="Net Start" max_length="40" name="netend" read_only="true" type="string"/>
         <element label="netEndLongInt" max_length="40" name="netendlongint" read_only="true" type="integer"/>
-        <element label="netLongInt" max_length="40" name="netlongint" type="integer"/>
+        <element label="netLongInt" max_length="40" name="netlongint" read_only="true" type="integer"/>
         <element label="Net End" max_length="40" name="netstart" read_only="true" type="string"/>
         <element label="netStartLongInt" max_length="40" name="netstartlongint" read_only="true" type="integer"/>
-        <element label="Number IP's" max_length="40" name="number_ips" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" choice_field="country" choice_table="cmn_location" label="Site" mandatory="true" max_length="40" name="site" type="string"/>
+        <element label="Number IP's" max_length="40" name="number_ips" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice_field="country" choice_table="cmn_location" display="true" label="Site" mandatory="true" max_length="40" name="site" type="string"/>
         <element choice="3" default="planned" label="Status" mandatory="true" max_length="40" name="status" type="string">
             <choice>
                 <element inactive_on_update="false" label="planned" sequence="1" value="planned"/>
